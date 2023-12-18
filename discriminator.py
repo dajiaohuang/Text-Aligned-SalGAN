@@ -1,4 +1,5 @@
 #this code is modified from https://github.com/HotThoughts/SalGAN and https://github.com/imatge-upc/salgan
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 
 import torch.nn as nn
 import torch

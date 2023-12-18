@@ -1,3 +1,4 @@
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 import torch
 from torch.utils.data import DataLoader
 from torchvision import transforms

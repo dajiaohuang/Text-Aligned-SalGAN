@@ -1,3 +1,4 @@
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 from sklearn.metrics import roc_auc_score
 import numpy as np
 import torch

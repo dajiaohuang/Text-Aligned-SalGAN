@@ -1,3 +1,4 @@
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 # Reading and processing all four JSON files to prepare for the combined subplots
 import json
 import matplotlib.pyplot as plt

@@ -1,4 +1,4 @@
-
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 import torch.nn as nn
 import torch.nn.functional as F
 import torch

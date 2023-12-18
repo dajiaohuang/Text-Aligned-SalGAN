@@ -1,3 +1,4 @@
+#this code is modified from 'https://github.com/gumusserv/CLIP-SalGan'
 from torch.utils.data import Dataset, DataLoader
 from PIL import Image
 import random
