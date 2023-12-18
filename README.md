@@ -23,6 +23,34 @@ pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 ```
 + Write the image with its text description in the code(```apply_model.py```), for example:
++ download the dataset and put it in the cloned repo
+
+```
+your_cloned_repo/
+|
+|___ saliency/
+|    |
+|    |___ image/
+|    |    |
+|    |    |___ image1.png ...
+|    |
+|    |___ map/
+|    |    |
+|    |    |___ map1.png ...
+|    |
+|    |___ fixation/
+|    |    |
+|    |    |___ fixation1.png ...
+|    |
+|    |___ readme.txt
+|    |
+|    |___ text最终版本.xlsx
+|
+|___ other_dirs/
+
+```
+
+
 
 ```
 image_paths = ['saliency/image/000000001306_0.png']
