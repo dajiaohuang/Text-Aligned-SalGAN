@@ -8,10 +8,10 @@
 ## Performance Display
 + ### Outputs
 
-![test](F:\cs3324\text-aligned-salgan\features\test.png)
+![test](features\test.png)
 
 + ### Training Loss
-  ![Figure_1](F:\cs3324\text-aligned-salgan\features\Figure_1.png)
+  ![Figure_1](features\Figure_1.png)
   
 
 ## Quick Start
