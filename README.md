@@ -1,5 +1,5 @@
 #  Text Aligned SalGAN
-
+Thanks to [Clip-Salgan](https://github.com/gumusserv/CLIP-SalGan)
 ## Model Architecture
 ![](features/model3.png)
 
